@@ -2,7 +2,7 @@ Vegetable Soup Recipe:
 
 Ingredients:
  - a pumpkin
- - three slices of smoked paprika
+ - seven slices of smoked paprika
  - five tomatoes
  - two onions
  - bouillon
