@@ -6,5 +6,5 @@ Ingredients:
  - five tomatoes
  - two onions
  - bouillon
- - beer 
+ - 10 beer 
  - water
