@@ -7,3 +7,4 @@ Ingredients:
  - two onions
  - bouillon
  - beer
+ - water
